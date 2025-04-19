@@ -1,9 +1,5 @@
 # 📊 Análise de Correlações com Teoria dos Grafos
 
-**Engenharia da Computação – Prova Final**  
-**Disciplina:** Teoria dos Grafos  
-**Docente:** Florêncio Filho  
-
 Este projeto aplica conceitos de teoria dos grafos para analisar a correlação entre canais de sensores com base em dados experimentais. A análise é feita utilizando grafos ponderados, árvores geradoras mínimas e visualizações gráficas.
 
 ---
